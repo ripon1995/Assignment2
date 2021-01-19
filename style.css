@@ -1,0 +1,41 @@
+body
+{
+    margin: 0px;
+}
+.formalShoeCart
+{
+    border-radius: 15px;
+    background-color: #f1f1f1;
+    margin: 15px;
+    height: 400px;
+}
+
+.casualShoeCart
+{
+    margin: 15px;
+    height: 400px;
+}
+
+.fourthBannerImageStyle img
+{
+    height: 100px;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: -10px;
+}
+
+.fourthBannerSecondHalfImage img
+{
+    height: 350px;
+    
+}
+
+.priceStyle
+{
+    color: sandybrown;
+}
+.cardFooterStyle
+{
+    background-color: white;
+    border: 0;
+}
